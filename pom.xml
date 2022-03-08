@@ -32,7 +32,7 @@
         <slf4j.version>1.7.30</slf4j.version>
         <redisson.version>3.12.4</redisson.version>
         <zookeeper.version>3.5.7</zookeeper.version>
-        <poi.version>4.1.2</poi.version>
+        <poi.version>5.2.1</poi.version>
     </properties>
 
     <dependencies>
